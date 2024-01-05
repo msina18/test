@@ -10,6 +10,7 @@ def v (str):
         
 print(v(input('enter a name :'))) 
 print('************') 
+print('=============')
 
 
 
