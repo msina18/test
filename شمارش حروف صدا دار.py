@@ -8,7 +8,9 @@ def v (str):
             c+= 1 
     return c, r
         
-print(v(input('enter a name :')))  
+print(v(input('enter a name :'))) 
+print('************') 
+print('=============')
 
 
 
